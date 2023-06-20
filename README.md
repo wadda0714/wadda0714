@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## Im wadda!!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadda0714)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wadda0714/wadda0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
